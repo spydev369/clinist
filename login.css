@@ -37,6 +37,7 @@ form *{
 }
 h1 {
 	font-weight: bold;
+	font-size: 24px;
 	text-align: center;
 }
 input {
@@ -61,6 +62,7 @@ button{
 	margin-top: 40px;
     left: 14%;
 	font-weight: bold;
+	font-size: 10px;
 	border: 2px solid #009688;
 	background: transparent;
 	color: #fff;
